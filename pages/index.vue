@@ -15,7 +15,7 @@
 
 <script setup>
 useHead({
-  title: 'Loris Mischler - Full-Stack Developer | Epitech Student',
+  title: 'Loris Mischler | Epitech Student',
   meta: [
     {
       name: 'description',
