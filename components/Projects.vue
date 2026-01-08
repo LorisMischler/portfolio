@@ -150,7 +150,7 @@ const projects = [
     description: 'Personal portfolio website built with Nuxt 3 to showcase projects and skills with a modern design.',
     image: portfolioImg,
     github: 'https://github.com/EpitechMscProPromo2028/T-ENT-500-STG_loris-mischler',
-    demo: '', // mettre le lien vers le site
+    demo: 'https://lorismischler.github.io/portfolio/', 
     technologies: ['Nuxt.js', 'Vue 3', 'CSS Animations'],
     category: 'Web',
     year: '2025',
