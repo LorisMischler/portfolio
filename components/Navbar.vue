@@ -53,7 +53,7 @@ const mobileMenuOpen = ref(false)
 
 const menuItems = [
   { label: 'Home', href: '#home' },
-  { label: 'About', href: '#about' },
+  { label: 'About me', href: '#about' },
   { label: 'Education', href: '#education' },
   { label: 'Services', href: '#services' },
   { label: 'Projects', href: '#projects' }
